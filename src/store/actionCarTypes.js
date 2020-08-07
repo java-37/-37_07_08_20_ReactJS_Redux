@@ -1,0 +1,1 @@
+export const ADD = '[Car] Add new car';
